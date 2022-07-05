@@ -1,2 +1,2 @@
 # odin-recipes 
-A minimalist project on recipes!!!
+A minimalist HTML website showcasing recipes!!!
